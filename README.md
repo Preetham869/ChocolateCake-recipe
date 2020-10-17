@@ -1,1 +1,1 @@
-# ChocolateCake-recipe
+This is a chocolate recipe.
